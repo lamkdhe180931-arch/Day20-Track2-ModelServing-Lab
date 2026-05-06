@@ -1,0 +1,6 @@
+{
+  "tier": "Qwen2.5-1.5B-Instruct",
+  "repo_id": "Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+  "primary_model": "models/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+  "compare_model": "models/qwen2.5-1.5b-instruct-q2_k.gguf"
+}
